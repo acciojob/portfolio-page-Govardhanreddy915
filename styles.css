@@ -1,2 +1,11 @@
 
-/* Your CSS Code here. */
+h1{
+    color:blue
+}
+body{
+	background-color:lightblue
+}
+skills{
+	font-display:bold
+	color:b
+}
